@@ -28,7 +28,7 @@ else
         <p>You are running PHP version <?= phpversion() ?></p>
         <p>This environment is launched with Elastic Beanstalk PHP Platform</p>
         <br></br>
-        <p>JACK Github->CodeDeploy->S3->ElasticBeanstalk->Done by Jack[Aamir]</p>
+        <p>JACK Github->CodeDeploy->S3->ElasticBeanstalk->Ec2->Done by Jack[Aamir]</p>
     </section>
 
     <section class="instructions">
